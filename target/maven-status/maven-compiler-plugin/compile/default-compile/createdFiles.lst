@@ -1,0 +1,4 @@
+com\example\model\Item.class
+com\example\Application.class
+com\example\controller\CrudController.class
+com\example\service\CrudService.class
